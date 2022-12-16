@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Sandbox.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/__DenemeYap__/Modern Menu 1/Scenes/Menu_Scene.unity
+    guid: 829a86ba161cdd840842063447f41aab
+  - enabled: 1
+    path: Assets/Scenes/Forrest.unity
+    guid: cadfce792fcfc48e6bf421f8b993a776
   m_configObjects: {}
